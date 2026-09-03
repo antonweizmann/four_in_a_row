@@ -1,0 +1,4 @@
+This is an example of a textfile uploaded into the Overleaf workspace.
+It is also possible to use PDFs
+Line 3.
+Line 4.
